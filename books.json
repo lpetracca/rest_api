@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "El lobo estepario",
+        "authorId": "1"
+    },
+
+    {
+        "id": "2",
+        "name": "Cuento de navidad",
+        "authorId": "3"
+    },
+    
+    {
+        "id": "3",
+        "name": "Fahrenheit 451",
+        "authorId": "2"
+    },
+    
+    {
+        "id": "4",
+        "name": "Demian",
+        "authorId": "1"
+    },
+
+    {
+        "id": "5",
+        "name": "Cronicas marcianas",
+        "authorId": "2"
+    }
+
+]
